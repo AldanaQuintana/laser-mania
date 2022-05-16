@@ -3296,4 +3296,23 @@ img.mapa {
 	img.mapa {
 		max-width: 100%;
 	}
+
+}	
+
+.closed-sign {
+	background-color: red;
+	position: absolute;
+	left: 0;
+	right: 0;
+	padding: 5px;
+	color: #FFF;
+	text-align: center;
+}
+
+#contact {
+	position: relative;
+}
+
+#contact .inner .closed-sign {
+	top: 183px;
 }
