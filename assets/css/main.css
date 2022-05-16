@@ -3291,3 +3291,9 @@ img.mapa {
 		margin: 30px 50px;
 	}
 }
+
+@media screen and (max-width: 480px) {
+	img.mapa {
+		max-width: 100%;
+	}
+}
